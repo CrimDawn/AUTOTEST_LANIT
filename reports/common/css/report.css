@@ -1,0 +1,129 @@
+body {
+    background: #999999;
+    font-family: cursive;
+}
+#main {
+    width: 100%;
+}
+.base {
+    width: 100%;
+    border: 15px #666666 ridge;
+    background: #cccccc;
+}
+.base th {
+    font-size: 25px;
+    color: #330000;
+    border: 2px grey solid;
+}
+.content, .left, .right {
+    width: 100%;
+}
+.left td, .right td {
+    vertical-align: top;
+    border: 2px grey solid;
+}
+.left label, .right label {
+    color: #663300;
+    border-bottom: 1px black dashed;
+}
+#steps {
+    width: 490px;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+#steps, ul.first, ul.second, ul.third, ul.forth, ul.fifth, ul.sixth {
+    padding: 0px;
+    margin: 0px;
+}
+div.second, div.third, div.forth, div.fifth, div.sixth, div.seventh {
+    display: none;
+}
+div.second {
+    margin-left: 20px;
+}
+div.third {
+    margin-left: 40px;
+}
+div.forth {
+    margin-left: 60px;
+}
+div.fifth {
+    margin-left: 80px;
+}
+div.sixth {
+    margin-left: 100px;
+}
+div.seventh {
+    margin-left: 120px;
+}
+.menu {
+    
+}
+.green {
+    color: #006600;
+}
+.red {
+    color: #ff0000;
+}
+.yellow {
+    color: #999900;
+}
+.menu:hover, .green:hover, .red:hover, .yellow:hover {
+    color: blue;
+    cursor: pointer;
+}
+#stepsInfo {
+    width: 100%;
+}
+#stepsInfo td {
+    color: #330000;
+    font-weight: bolder;
+    border: none;
+}
+#infoStackTrace {
+    width: 99%;
+    background: #cccccc;
+    border: none;
+    color: #330000;
+}
+.stacktrace {
+    display: none;
+}
+.screenshot {
+    display: none;
+}
+.currentscreen {
+    cursor: pointer;
+    color: #0000cc;
+}
+#globalScreenShot {
+    top: 0px;
+    left: 0px;
+    background: black;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: none;
+    z-index: 100;
+}
+#globalScreenShot table {
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+#closeGlobalScreenShot {
+    width: 50px;
+    height: 100%;
+    color: #666666;
+    text-align: center;
+    vertical-align: middle;
+}
+#closeGlobalScreenShot:hover {
+    background: #666666;
+    cursor: pointer;
+    color: white;
+}
+#globalScreenShot img {
+    width: 100%;
+    height: 100%;
+}

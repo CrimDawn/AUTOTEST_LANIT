@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Class-Path: junit-4.9.jar hamcrest-core-1.1.jar operadriver-0.18.jar o
+ peralaunchers-1.1.jar guava-12.0.1.jar jsr305-1.3.9.jar protobuf-java
+ -2.4.1.jar commons-jxpath-1.3.jar commons-exec-1.1.jar ini4j-0.5.2.ja
+ r selenium-java-2.25.0.jar selenium-android-driver-2.25.0.jar seleniu
+ m-remote-driver-2.25.0.jar json-20080701.jar selenium-api-2.25.0.jar 
+ commons-codec-1.4.jar jna-3.4.0.jar platform-3.4.0.jar selenium-chrom
+ e-driver-2.25.0.jar selenium-htmlunit-driver-2.25.0.jar htmlunit-2.9.
+ jar xalan-2.7.1.jar serializer-2.7.1.jar xml-apis-1.3.04.jar commons-
+ collections-3.2.1.jar commons-lang-2.6.jar htmlunit-core-js-2.9.jar x
+ ercesImpl-2.9.1.jar nekohtml-1.9.15.jar cssparser-0.9.5.jar sac-1.3.j
+ ar commons-io-2.0.1.jar selenium-firefox-driver-2.25.0.jar selenium-i
+ e-driver-2.25.0.jar selenium-iphone-driver-2.25.0.jar selenium-safari
+ -driver-2.25.0.jar webbit-0.4.6.jar netty-3.2.7.Final.jar selenium-su
+ pport-2.25.0.jar cglib-nodep-2.1_3.jar commons-logging-1.1.1.jar jxl-
+ 2.6.10.jar log4j-1.2.14.jar browsermob-proxy-2.0-beta-6.jar slf4j-jdk
+ 14-1.5.3.jar slf4j-api-1.5.3.jar sitebricks-0.8.3.jar mvel2-2.0.18.ja
+ r guava-r07.jar jcip-annotations-1.0.jar annotations-7.0.3.jar guice-
+ 3.0.jar aopalliance-1.0.jar guice-servlet-3.0.jar guice-multibindings
+ -3.0.jar commons-httpclient-3.1.jar dom4j-1.6.1.jar jaxen-1.1.1.jar j
+ dom-1.0.jar xom-1.0.jar xmlParserAPIs-2.6.2.jar icu4j-2.6.1.jar saxpa
+ th-1.0-FCS.jar servlet-api-2.5.jar xstream-1.3.1.jar xpp3_min-1.1.4c.
+ jar jackson-core-asl-1.7.1.jar jackson-mapper-asl-1.7.1.jar jsoup-1.4
+ .1.jar freemarker-2.3.10.jar httpclient-4.1.3.jar httpcore-4.1.4.jar 
+ httpmime-4.1.3.jar jopt-simple-3.2.jar ant-1.8.2.jar ant-launcher-1.8
+ .2.jar bcprov-jdk15-135.jar jetty-server-7.3.0.v20110203.jar jetty-co
+ ntinuation-7.3.0.v20110203.jar jetty-http-7.3.0.v20110203.jar jetty-i
+ o-7.3.0.v20110203.jar jetty-util-7.3.0.v20110203.jar jetty-servlet-7.
+ 3.0.v20110203.jar jetty-security-7.3.0.v20110203.jar javax.inject-1.j
+ ar selenium-api-2.20.0.jar activation-1.1.jar commons-email-1.2.jar m
+ ail-1.4.1.jar
+Main-Class: lanit.junit.StartAutotest
+
